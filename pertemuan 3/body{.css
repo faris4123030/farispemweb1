@@ -1,0 +1,40 @@
+body{
+    background-color:gold;
+}
+.container{
+    width:1000px;
+    margin:auto;
+    background-color:rebeccapurple;
+}
+.header h1{
+    font-size: 40px;
+    margin-left: 20px;
+}
+.header ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.cover{
+    height: 1000px;
+    background-image: url(paris.jpg)
+}
+.content h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.content h4{
+    margin-left: 20px;
+}
+.content p{
+    margin-left: 20px;
+}
+.footer{
+    background-color: darksalmon;
+    text-align: center;
+    color: crimson;
+    margin-top: 20px;
+}
+.footer p{
+
+    font-size: 18px;
+}
